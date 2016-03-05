@@ -2,6 +2,7 @@ name: AC-Test
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.51111
+title: A test run of the AI powered - the grid
 cta:
   domain: null
   bucket: null
