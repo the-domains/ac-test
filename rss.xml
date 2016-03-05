@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AC-Test]]></title>
         <description><![CDATA[AC-Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ac-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 15:48:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 15:55:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ac-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test site to see if the grid works ... or if its a load of crap as everyone else is saying. \\ causeI have waited over a year and $100US later for this ... so here goes...</p>]]></description>
-            <link>undefinedfc8b40f1-f3d2-4349-90f9-9bdd1ba2c274/index.html</link>
+            <link>https://thegrid.ai/ac-test/fc8b40f1-f3d2-4349-90f9-9bdd1ba2c274/index.html</link>
             <guid isPermaLink="false">fc8b40f1-f3d2-4349-90f9-9bdd1ba2c274</guid>
-            <pubDate>Sat, 05 Mar 2016 15:48:24 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 15:55:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
