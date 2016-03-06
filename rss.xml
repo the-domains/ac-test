@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A test run of the AI powered - the grid]]></title>
-        <description><![CDATA[A test run of the AI powered - the grid]]></description>
+        <title><![CDATA[AC-Test]]></title>
+        <description><![CDATA[AC-Test]]></description>
         <link>https://thegrid.ai/ac-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 20:22:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ac-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test site to see if the grid works ... or if its a load of crap as everyone else is saying. \\ causeI have waited over a year and $100US later for this ... so here goes...</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cc97abc-3137-428c-b01d-b81b0f93c16e.jpg">]]></description>
             <link>https://thegrid.ai/ac-test/fc8b40f1-f3d2-4349-90f9-9bdd1ba2c274/index.html</link>
             <guid isPermaLink="false">fc8b40f1-f3d2-4349-90f9-9bdd1ba2c274</guid>
-            <pubDate>Sun, 06 Mar 2016 18:24:03 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 20:21:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
