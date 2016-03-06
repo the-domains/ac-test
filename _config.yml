@@ -1,4 +1,19 @@
-analytics: {}
+name: AC-Test
+favicon: null
+layout_spectrum: 0.74278
+typography_spectrum: 0.51111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +23,6 @@ color:
     - '#ff5f00'
   brandStrength: 1
   lightness: 0.375
-  rhythmicContrast: 0
   saturation: 0.3125
-cta: {}
-layout_spectrum: 0.434684
-name: AC-Test
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0.51111
